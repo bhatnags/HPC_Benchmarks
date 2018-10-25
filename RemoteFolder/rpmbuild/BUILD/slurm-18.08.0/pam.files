@@ -1,0 +1,2 @@
+/lib64/security/pam_slurm.so
+/lib64/security/pam_slurm_adopt.so
